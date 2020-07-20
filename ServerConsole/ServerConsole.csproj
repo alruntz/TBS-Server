@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Security.Permissions" Version="4.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="APICore">
+      <HintPath>..\APICore\bin\AdminAPI\APICore.dll</HintPath>
+    </Reference>
+    <Reference Include="GridSystem">
+      <HintPath>..\..\Unity\GridBasedStrategy_0_1\Assets\Plugins\GridSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="Models">
+      <HintPath>..\Models\bin\Release\Models.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\TBSEngine\bin\Release\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="TBSEngine">
+      <HintPath>..\..\Unity\GridBasedStrategy_0_1\Assets\Plugins\TBSEngine.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

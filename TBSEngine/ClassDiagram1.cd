@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TBSEngine.Battle" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAyAAAKBAAABAAAIGBgCAQABgAAAAAQgAAAAAAAA=</HashCode>
+      <FileName>Battle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TBSEngine.Database" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAgAAQEAAAAAAAAEAAAAQAAgAIAAAQAAAAAAAAA=</HashCode>
+      <FileName>Database.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TBSEngine.GameManager" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TBSEngine.BattleEntities.Character" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICMGIAAACYBAIAQAQgBoABQACAhhAoAgAgBAkAAAIBA=</HashCode>
+      <FileName>BattleEntities\Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TBSEngine.BattleEntities.Player" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAEAAAAgAEAAAAAAAAAAAA=</HashCode>
+      <FileName>BattleEntities\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TBSEngine.BattleEntities.Spell" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAIQAAAAAAAAAAQAQAAAAAIAEAEAAAAASAAAA=</HashCode>
+      <FileName>BattleEntities\Spell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TBSEngine.Controllers.Character" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAICAAAAAQAAIAgAQAAgABQAAAAAAAAACABAAAAAABA=</HashCode>
+      <FileName>Controllers\Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TBSEngine.Controllers.Player" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAIAAAAAAAAAAQAAAAAAAAAAQACAAAAAAA=</HashCode>
+      <FileName>Controllers\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TBSEngine.Controllers.Spell" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAAAEIQAAAAAAAAAAAAQAAAAAAAAAAAAAAASAAAA=</HashCode>
+      <FileName>Controllers\Spell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TBSEngine.Models.Character" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAACAAAAAQAAIAEAAAAgABQAAAAAAAAAAABAAAAAABA=</HashCode>
+      <FileName>Models\Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TBSEngine.Models.Player" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TBSEngine.Models.SpellRange" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAEAAAAAAAAAAAACAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Models\Spell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TBSEngine.Models.Spell" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAIAAAAAAAAAAAAAQAAAAAAAAAAAAAAASAAAA=</HashCode>
+      <FileName>Models\Spell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TBSEngine.Properties.Settings" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
